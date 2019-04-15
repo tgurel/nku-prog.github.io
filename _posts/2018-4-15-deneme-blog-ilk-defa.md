@@ -3,7 +3,7 @@ layout: post
 title: deneme2 kardeş
 ---
 deneme2
-<script src="http://gist-it.appspot.com/http://github.com/tgurel/cexamples/blob/master/03-donguler/10_defa_merhaba.c"></script>
+<script src="http://gist-it.appspot.com/http://github.com/tgurel/cexamples/raw/master/03-donguler/10_defa_merhaba.c"></script>
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
