@@ -13,6 +13,9 @@ Deneme4
 
 {% gist 5555251 %}
 
+deneme5
+
+{% gist aea80ebde64f071962473db33216d7a8 %}
 
 <script src="http://gist-it.appspot.com/github/robertkrimen/gist-it-example/blob/master/example.js"></script>
 
